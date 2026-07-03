@@ -1,9 +1,6 @@
 # 📉 Customer Churn Prediction
 
 An end-to-end machine learning project that predicts whether a telecom customer is likely to churn (cancel their subscription), based on the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). The project covers the full ML lifecycle — data cleaning, EDA, handling class imbalance, model comparison, hyperparameter tuning, and deployment as an interactive web app.
-
-**🔗 Live Demo:** _add your Streamlit Cloud link here after deployment_
-
 ---
 
 ## 📌 Project Overview
